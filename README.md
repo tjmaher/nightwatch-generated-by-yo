@@ -1,8 +1,10 @@
 # nightwatch-generated-by-yo
 
-Install Nightwatch from the Command Line: npm install -g nightwatch
+Default code produced by Yeoman: http://yeoman.io/ and Joe Purdy's generator-nightwatchjs at https://github.com/joepurdy/generator-nightwatchjs.
 
-Run from the command line: nightwatch -tests
+Install Nightwatch from the Command Line: npm install -g nightwatchjs
+
+Run from the command line: <i>nightwatch -tests</i>
 
 <pre>
 Starting selenium server... started - PID:  14328
