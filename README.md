@@ -4,6 +4,7 @@ Install Nightwatch from the Command Line: npm install -g nightwatch
 
 Run from the command line: nightwatch -tests
 
+<pre>
 Starting selenium server... started - PID:  14328
 
 [Google] Test Suite
@@ -26,4 +27,5 @@ Running:  Test Google Section
 OK. 3 assertions passed. (8.442s)
 
 OK. 5  total assertions passed. (20.927s)
+</pre>
 
