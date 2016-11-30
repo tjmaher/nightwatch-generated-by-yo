@@ -2,7 +2,7 @@
 
 Default code produced by Yeoman: http://yeoman.io/ and Joe Purdy's generator-nightwatchjs at https://github.com/joepurdy/generator-nightwatchjs.
 
-Install Nightwatch from the Command Line: npm install -g nightwatchjs
+Install Nightwatch from the Command Line: <i>npm install -g nightwatchjs</i>
 
 Run from the command line: <i>nightwatch -tests</i>
 
